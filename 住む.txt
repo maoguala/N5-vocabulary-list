@@ -1,0 +1,64 @@
+住む　すむ　to live / to riside
+
+家　いえ　House　/ home
+
+窓　まど　window
+
+ドア　door
+
+開ける　あける　open(store / door..)
+
+閉める　しめる　close
+
+鍵　かぎ　key
+
+ベッド　bed
+
+ダイニング　dinning
+
+キッチン　kitchen
+
+和室　わしつ　
+
+トイレ　toilet
+
+御手洗い　おてあらい　toilet
+
+布団　ふとん　futon
+
+テーブル　ｔable
+
+机　つくえ　table
+
+椅子　いす　chair
+
+座る　すわる　site
+
+立つ　たつ　stand
+
+洗濯　せんたく　laundry
+
+掃除　そうじ　cleaning
+
+ゴミ　trash
+
+捨てる　すてる　throw
+
+おく　put
+
+住む　すむ　live
+
+住所　じゅうしょ　address of live
+
+冷蔵庫　れいぞうこ　refrigerator
+
+洗濯機　せんたくき washing machine
+
+掃除機　そうじき　vacuum cleaner
+
+
+
+
+
+
+
